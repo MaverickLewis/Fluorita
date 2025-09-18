@@ -49,7 +49,7 @@ Crystal-inspired purple theme for Obsidian — blending elegance, minimalism, an
 
 ## 💜 Apoie o Fluorita
 
-Se você gostou do tema e quer apoiar meu trabalho, considere fazer uma doação:  
+Se você gostou do tema e quer apoiar meu trabalho, considere fazer uma doação para me pagar um café:  
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&style=for-the-badge)](https://paypal.me/999992726)
 
